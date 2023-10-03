@@ -351,7 +351,7 @@
 }
 .paragraphtext{
     font-family: 'Open Sans',sans-serif;
-    font-size: medium;
+    font-size: 17px;
     color: white;
 }
 .freepiktext{
@@ -884,6 +884,8 @@
     font-size: 30px;
     font-family: "Montserrat",sans-serif; 
     font-weight: bolder; 
+    margin: 10px 0px 0px 15px;
+    padding: 10px 0px 0px 10px;
 }
 .cookytypes{
     font-size: large;
@@ -912,6 +914,8 @@
     font-size: 30px;
     font-family: "Montserrat",sans-serif; 
     font-weight: bolder; 
+    margin: 10px 0px 0px 15px;
+    padding: 10px 0px 0px 10px;
 }
 .Sconetypes{
     font-size: large;
@@ -938,6 +942,8 @@
     font-size: 30px;
     font-family: "Montserrat",sans-serif; 
     font-weight: bolder; 
+    margin: 10px 0px 0px 15px;
+    padding: 10px 0px 0px 10px;
 }
 .othertypes{
     font-size: large;
